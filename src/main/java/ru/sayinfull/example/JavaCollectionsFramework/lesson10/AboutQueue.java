@@ -1,6 +1,5 @@
-package ru.sayinfull.example.lesson10;
+package ru.sayinfull.example.JavaCollectionsFramework.lesson10;
 
-import java.util.LinkedList;
 import java.util.Queue;
 import java.util.concurrent.ArrayBlockingQueue;
 

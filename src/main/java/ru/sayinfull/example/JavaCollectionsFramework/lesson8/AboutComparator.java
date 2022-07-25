@@ -1,4 +1,4 @@
-package ru.sayinfull.example.lesson8;
+package ru.sayinfull.example.JavaCollectionsFramework.lesson8;
 
 import java.util.ArrayList;
 import java.util.Collections;

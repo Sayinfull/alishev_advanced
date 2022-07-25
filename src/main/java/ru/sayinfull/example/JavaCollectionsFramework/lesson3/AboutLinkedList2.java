@@ -1,8 +1,6 @@
-package ru.sayinfull.example.lesson3;
+package ru.sayinfull.example.JavaCollectionsFramework.lesson3;
 
 import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.List;
 
 public class AboutLinkedList2 {
     private Node head;

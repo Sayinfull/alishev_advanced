@@ -1,4 +1,4 @@
-package ru.sayinfull.example.lesson11;
+package ru.sayinfull.example.JavaCollectionsFramework.lesson11;
 
 import java.util.Stack;
 

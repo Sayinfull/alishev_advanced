@@ -1,4 +1,4 @@
-package ru.sayinfull.example.lesson9;
+package ru.sayinfull.example.JavaCollectionsFramework.lesson9;
 
 import java.util.*;
 

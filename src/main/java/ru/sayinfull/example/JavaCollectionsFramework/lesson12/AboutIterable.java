@@ -1,8 +1,7 @@
-package ru.sayinfull.example.lesson12;
+package ru.sayinfull.example.JavaCollectionsFramework.lesson12;
 
 import java.util.ArrayList;
 import java.util.Iterator;
-import java.util.List;
 
 public class AboutIterable {
     public static void main(String[] args) {

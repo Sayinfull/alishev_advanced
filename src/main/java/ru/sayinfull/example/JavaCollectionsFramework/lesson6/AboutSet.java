@@ -1,4 +1,4 @@
-package ru.sayinfull.example.lesson6;
+package ru.sayinfull.example.JavaCollectionsFramework.lesson6;
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;

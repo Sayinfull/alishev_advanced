@@ -1,4 +1,4 @@
-package ru.sayinfull.example.lesson3;
+package ru.sayinfull.example.JavaCollectionsFramework.lesson3;
 
 public class MyLinkedList {
     public static void main(String[] args) {

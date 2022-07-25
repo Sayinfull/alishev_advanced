@@ -1,4 +1,4 @@
-package ru.sayinfull.example.lesson5;
+package ru.sayinfull.example.JavaCollectionsFramework.lesson5;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;
